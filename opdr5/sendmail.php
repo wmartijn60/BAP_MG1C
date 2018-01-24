@@ -6,4 +6,4 @@ $headers = 'From ' . $_POST['from'];
 
 mail($to, $subject , $message , $headers);
 
-echo 'Uw mail is naar mijn MEME FOLDER gestuurd/my hentai collection';
+echo 'Uw mail is Verstuurd';
